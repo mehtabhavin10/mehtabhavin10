@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mehtabhavin10/mehtabhavin10/blob/master/pic.png" width="200px">
+  <img src="https://github.com/mehtabhavin10/mehtabhavin10/blob/master/pic.jpg" width="200px">
   <br>
   <samp>
     <br>
