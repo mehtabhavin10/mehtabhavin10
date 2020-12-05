@@ -21,7 +21,6 @@
 * 📫 How to reach me:
   - Email: [mehta.bhavinm@gmail.com](mailto:mehta.bhavinm@gmail.com)
   - LinkedIn: [bhavin-m-mehta](https://www.linkedin.com/in/bhavin-m-mehta/)
-  - Website: [bhavin.mehta](https://mehtabhavin10.github.io/)
   - Telegram: [mehtabhavin10](https://t.me/mehtabhavin10)
   
 
