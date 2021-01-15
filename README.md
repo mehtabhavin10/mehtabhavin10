@@ -3,12 +3,9 @@
   <br>
   <samp>
     <br>
-	![](https://visitor-badge.glitch.me/badge?page_id=mehtabhavin10.mehtabhavin10)
-	  
-    
-	  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-	 Hi I'm <strong>Bhavin Mehta</strong>, a final year student in Information Technology(IT) at Dwarkadas J. Sanghvi College of Engineering, Mumbai. <br>
+    👋 Hi I'm <strong>Bhavin Mehta</strong>, a final year student in Information Technology(IT) at Dwarkadas J. Sanghvi College of Engineering. <br>
     <ul><samp>I am,</samp> 
+    <li><samp>Working at DJCSI Student Chapter as Technical Co-Head, was working as Android Developer last year.</samp></li>
 	<li><samp>Skilled in Android, Firebase, Node.JS, PHP, Java, Python, DBMS and C/C++.</samp></li> 
 	<li><samp>Experience of developing Android apps, Web-apps and working with various Databases on Backend.</samp></li>
 	<li><samp>Interested in Networking, Security and Machine learning.</samp></li>
