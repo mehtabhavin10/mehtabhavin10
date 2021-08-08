@@ -23,7 +23,7 @@
   - Email: [mehta.bhavinm@gmail.com](mailto:mehta.bhavinm@gmail.com)
   - LinkedIn: [bhavin-m-mehta](https://www.linkedin.com/in/bhavin-m-mehta/)
   - Telegram: [mehtabhavin10](https://t.me/mehtabhavin10)
-  - Resume: [Bhavin_Mehta_Resume](https://drive.google.com/file/d/1sVOyD6FPWGVW3aBSuqiIOkuE8KTgBJlo/view)
+  - Resume: [Bhavin_Mehta_Resume](https://drive.google.com/file/d/1kBbvsm6rFkccbQPdTaPu_xtjP-BW1X-W/view?usp=sharing)
   
 
 ![Bhavin Mehta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehtabhavin10&show_icons=True&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
