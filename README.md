@@ -3,7 +3,7 @@
   <br>
   <samp>
     <br>
-    👋 Hi I'm <strong>Bhavin Mehta</strong>, Software Engineer at Cimpress. I am a 2021 pass-out of BE in IT from DJSCE, Mumbai <br>
+    👋 Hi I'm <strong>Bhavin Mehta</strong>, Software Engineer at Myntra. I am a 2021 pass-out of BE in IT from DJSCE, Mumbai <br>
     <ul><samp>I am,</samp> 	
 	<li><samp>Skilled in Java, Flutter, Android, Node.JS and DBMS (SQL and NoSQL)</samp></li> 
 	<li><samp>Experience of developing Mobile apps, Web-apps and working with various Databases on Backend</samp></li>
