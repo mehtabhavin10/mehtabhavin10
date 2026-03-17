@@ -18,14 +18,14 @@ Senior Software Engineer at <b>Salesforce</b>, previously at <b>Myntra</b>.
 <br>
 
 <p>
-I design and build <b>scalable backend systems and security infrastructure</b> that power large product ecosystems used by millions of users.
+I design and build scalable backend systems and security infrastructure that power large product ecosystems used by millions of users.
 My work focuses on distributed systems, authentication architecture, and building reliable services that operate at scale.
 </p>
 
 
 <p>
-At Salesforce, I work on the <b>authentication and trust layer</b> enabling secure <b>cloud-to-cloud (C2C) communication</b> across Salesforce products. 
-This includes designing <b>token-based authentication mechanisms</b> and building foundational APIs that allow services across different clouds to securely communicate with each other.
+At Salesforce, I work on the authentication and trust layer enabling secure cloud-to-cloud (C2C) communication across Salesforce products. 
+This includes designing token-based authentication mechanisms and building foundational APIs that allow services across different clouds to securely communicate with each other.
 </p>
 
 <p>
@@ -47,7 +47,7 @@ Previously at Myntra, I contributed to backend systems powering the marketplace 
 <br>
   <br>
 <p>
-This GitHub is a mix of engineering experiments, side projects, and explorations in areas like <b>machine learning, AI applications, analytics, and applied software engineering</b>.
+This GitHub is a mix of engineering experiments, side projects, and explorations in areas like machine learning, AI applications, analytics, and applied software engineering.
 </p>
 
 <p>
