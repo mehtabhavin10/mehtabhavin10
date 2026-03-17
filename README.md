@@ -58,7 +58,7 @@ I’m always curious about how systems scale, how good engineering decisions com
 <h3>Tech I Work With</h3>
 
 <p>
-Java • Distributed Systems • Microservices • Authentication • System Design • Cloud Platforms • AI / GenAI
+Java • Distributed Systems • Microservices • Cloud Platforms • AI / GenAI
 </p>
 
 <br>
