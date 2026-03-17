@@ -10,21 +10,19 @@
 
 <h1>Hi, I'm Bhavin Mehta 👋</h1>
 
-<br>
-<br>
+
 <p>
 Senior Software Engineer at <b>Salesforce</b>, previously at <b>Myntra</b>.
 </p>
 
 <br>
-  <br>
+
 <p>
 I design and build <b>scalable backend systems and security infrastructure</b> that power large product ecosystems used by millions of users.
 My work focuses on distributed systems, authentication architecture, and building reliable services that operate at scale.
 </p>
 
-<br>
-  <br>
+
 <p>
 At Salesforce, I work on the <b>authentication and trust layer</b> enabling secure <b>cloud-to-cloud (C2C) communication</b> across Salesforce products. 
 This includes designing <b>token-based authentication mechanisms</b> and building foundational APIs that allow services across different clouds to securely communicate with each other.
@@ -35,7 +33,6 @@ Previously at Myntra, I contributed to backend systems powering the marketplace 
 </p>
 
 <br>
-  <br><br>
   <br>
 <h3>Things I enjoy working on</h3>
 
@@ -66,7 +63,6 @@ Java • Distributed Systems • Microservices • Authentication • System Des
 </p>
 
 <br>
-  <br><br>
   <br>
 <h3>Connect with me</h3>
 
