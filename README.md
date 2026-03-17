@@ -13,3 +13,59 @@
   - LinkedIn: [bhavin-m-mehta](https://www.linkedin.com/in/bhavin-m-mehta/) 
 
 ![Bhavin Mehta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehtabhavin10&show_icons=True&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+<h1>Hi, I'm Bhavin Mehta 👋</h1>
+
+<p>
+Senior Software Engineer at <b>Salesforce</b>, previously at <b>Myntra</b>.
+</p>
+
+<p>
+I design and build <b>scalable backend systems and security infrastructure</b> that power large product ecosystems used by millions of users.
+My work focuses on distributed systems, authentication architecture, and building reliable services that operate at scale.
+</p>
+
+<p>
+At Salesforce, I work on the <b>authentication and trust layer</b> enabling secure <b>cloud-to-cloud (C2C) communication</b> across Salesforce products. 
+This includes designing <b>token-based authentication mechanisms</b> and building foundational APIs that allow services across different clouds to securely communicate with each other.
+</p>
+
+<p>
+Previously at Myntra, I contributed to backend systems powering the marketplace platform, enabling international brand onboarding and improving seller integrations at scale.
+</p>
+
+<h3>Things I enjoy working on</h3>
+
+<ul>
+<li>Distributed systems & backend architecture</li>
+<li>Authentication, security, and service-to-service trust systems</li>
+<li>Scalable API design and high-reliability services</li>
+<li>AI / GenAI powered applications and data-driven systems</li>
+<li>Developer productivity and platform engineering</li>
+</ul>
+
+<p>
+This GitHub is a mix of engineering experiments, side projects, and explorations in areas like <b>machine learning, AI applications, analytics, and applied software engineering</b>.
+</p>
+
+<p>
+I’m always curious about how systems scale, how good engineering decisions compound over time, and how great software products are built.
+</p>
+
+<h3>Tech I Work With</h3>
+
+<p>
+Java • Distributed Systems • Microservices • Authentication • System Design • Cloud Platforms • AI / GenAI
+</p>
+
+<h3>Connect with me</h3>
+
+<p>
+LinkedIn: <a href="https://www.linkedin.com/in/bhavin-m-mehta/">bhavin-m-mehta</a>
+</p>
+
+<br>
+
+<h3>GitHub Stats</h3>
+![Bhavin Mehta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehtabhavin10&show_icons=True&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
