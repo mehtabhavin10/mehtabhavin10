@@ -38,7 +38,6 @@ Previously at Myntra, I contributed to backend systems powering the marketplace 
 
 <ul>
 <li>Distributed systems & backend architecture</li>
-<li>Authentication, security, and service-to-service trust systems</li>
 <li>Scalable API design and high-reliability services</li>
 <li>AI / GenAI powered applications and data-driven systems</li>
 <li>Developer productivity and platform engineering</li>
